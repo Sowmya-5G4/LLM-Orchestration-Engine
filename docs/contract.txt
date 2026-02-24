@@ -1,0 +1,35 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of the Effective Date between the Service Provider and the Client.
+
+1. DEFINITIONS
+   "Services" means the work and deliverables described in the Statement of Work.
+   "Confidential Information" means any non-public information disclosed by either party.
+   "Term" means the period from the Effective Date until termination as set forth herein.
+
+2. SCOPE OF SERVICES
+   The Service Provider shall perform the Services in accordance with the specifications and schedule agreed in writing. Any change to scope, schedule, or fees shall be documented in a written change order signed by both parties.
+
+3. FEES AND PAYMENT
+   The Client shall pay the Service Provider the fees set forth in the Statement of Work. Invoices are due within thirty (30) days of the invoice date. Late payments may incur interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by law, whichever is less.
+
+4. TERM AND TERMINATION
+   This Agreement shall commence on the Effective Date and continue until completion of the Services or until earlier terminated. Either party may terminate this Agreement for material breach upon thirty (30) days' written notice if the breach remains uncured. The Client may terminate for convenience with fourteen (14) days' written notice; in such case, the Client shall pay for all work performed and non-cancellable commitments through the effective date of termination.
+
+5. CONFIDENTIALITY
+   Each party agrees to hold the other's Confidential Information in confidence and not to disclose or use it except as necessary to perform under this Agreement or as required by law. These obligations survive termination of this Agreement.
+
+6. LIMITATION OF LIABILITY
+   Except for breach of confidentiality or either party's gross negligence or willful misconduct, neither party's total liability shall exceed the total fees paid or payable by the Client under this Agreement in the twelve (12) months preceding the claim. In no event shall either party be liable for indirect, incidental, special, or consequential damages.
+
+7. GOVERNING LAW
+   This Agreement shall be governed by the laws of the jurisdiction in which the Service Provider is domiciled, without regard to its conflict of laws principles.
+
+8. ENTIRE AGREEMENT
+   This Agreement, together with any referenced Statement of Work, constitutes the entire agreement between the parties and supersedes all prior negotiations and agreements. No amendment shall be effective unless in writing and signed by both parties.
+
+By signing below, the parties acknowledge that they have read, understood, and agree to be bound by this Agreement.
+
+Service Provider: _________________________  Date: ___________
+
+Client: _________________________  Date: ___________
